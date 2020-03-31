@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 北山集
-#+DATE: 2020-03-31 11:34:19.595354
+#+DATE: 2020-03-31 11:34:19.848343
 #+PROPERTY: ID KR4d0201
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 11
 <pb:KR4d0201_WYG_011-1a>¶
 　　欽定四庫全書¶
@@ -261,7 +261,7 @@
 不解將身朝市行¶
 ¶
 　　後生修飾正争妍老者何顔與拍肩竹逕柴門閉深寂¶
-𥞇康只願得髙眠¶
+嵇康只願得髙眠¶
 ¶
 　　屋後𤓰疇接芋區門前寥落翳菴䕡愚癡不顧妻兒笑¶
 依舊燈前夜讀書¶

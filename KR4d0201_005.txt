@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 北山集
-#+DATE: 2020-03-31 11:34:19.556505
+#+DATE: 2020-03-31 11:34:19.810346
 #+PROPERTY: ID KR4d0201
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR4d0201_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -284,7 +284,7 @@
 ¶
 　　相説¶
 ¶
-　　今之所謂四民者士則有學農則有𤱶畆皆不㳺散四¶
+　　今之所謂四民者士則有學農則有畎畆皆不㳺散四¶
 方其㳺散者惟工商二流所以爲工商者必有所挟工¶
 挟藝商挟貨猶舟之維楫鳥之羽翼無湏臾可捨故有¶
 所挟則得無所挟則困矣相士毛生之来未露見所挟¶

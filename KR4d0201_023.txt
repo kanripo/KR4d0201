@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 北山集
-#+DATE: 2020-03-31 11:34:19.701657
+#+DATE: 2020-03-31 11:34:19.952999
 #+PROPERTY: ID KR4d0201
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 23
 <pb:KR4d0201_WYG_023-1a>¶
 　　欽定四庫全書¶
@@ -29,7 +29,7 @@
 ¶
 　　别家山二絶¶
 ¶
-　　簡書催我就征途對坐西山暫索居聞說仕途𡾟險甚¶
+　　簡書催我就征途對坐西山暫索居聞說仕途巇險甚¶
 未應從此便相疎¶
 ¶
 　　就荒松菊莫相嗔未肯微官縛此身若有督郵須束帶¶

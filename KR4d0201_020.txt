@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 北山集
-#+DATE: 2020-03-31 11:34:19.655313
+#+DATE: 2020-03-31 11:34:19.908012
 #+PROPERTY: ID KR4d0201
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 20
 <pb:KR4d0201_WYG_020-1a>¶
 　　欽定四庫全書¶
@@ -55,7 +55,7 @@
 　　答蔣茂先¶
 ¶
 　　(某)再拜去冬襄奉(某)深欲為黿潭送車之客適風雪異¶
-常不滿初意悵然抱不臨&KR0590;之恨還家懶放自便亦恃¶
+常不滿初意悵然抱不臨窆之恨還家懶放自便亦恃¶
 親故炤其無他不復奉一紙别後安問專介之来辱以¶
 緘書勒意再三深媿簡踈之罪尚煩闊畧如此也區區¶
 未遑面既臨書但有傾倒¶

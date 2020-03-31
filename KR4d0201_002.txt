@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 北山集
-#+DATE: 2020-03-31 11:34:19.523527
+#+DATE: 2020-03-31 11:34:19.781320
 #+PROPERTY: ID KR4d0201
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4d0201_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -391,7 +391,7 @@
 驚呼吾憐衰蹇身視人百無如毎幸對黄巻白日聊¶
 <pb:KR4d0201_WYG_002-18a>¶
 自娱今者坐窮寂頓覺雙眼孤夜夢亦驚枕憂心梗難¶
-舒大慮廢文字寖久成頑疎未免伴畦丁&KR0115;然荷犂鋤¶
+舒大慮廢文字寖久成頑疎未免伴畦丁冥然荷犂鋤¶
 ¶
 　　壬寅年南遊離白沙¶
 ¶

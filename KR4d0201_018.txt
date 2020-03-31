@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 北山集
-#+DATE: 2020-03-31 11:34:19.640237
+#+DATE: 2020-03-31 11:34:19.892457
 #+PROPERTY: ID KR4d0201
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 18
 <pb:KR4d0201_WYG_018-1a>¶
 　　欽定四庫全書¶
@@ -204,7 +204,7 @@
 　　擬送楊帥¶
 ¶
 　　乆戍思賢日中興入覲時旌旗生喜氣梅桞動寒枝報¶
-國心偏苦安邊計自竒一軍嘗北出萬騎絶南窺結&KR0100;¶
+國心偏苦安邊計自竒一軍嘗北出萬騎絶南窺結軌¶
 <pb:KR4d0201_WYG_018-8b>¶
 聞修好櫜弓謹退師浩歌藏戰甲雅拜習朝儀天近雷¶
 風迅雲深雨露滋告庭行有命祖載敢無詩雪意留金¶
